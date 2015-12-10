@@ -1,3 +1,5 @@
 this is file 1
 
 second line
+
+second stashing
