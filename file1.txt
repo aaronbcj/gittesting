@@ -5,14 +5,10 @@ second line
 second stashing
 first stashing
 
+fourth no index middle
 
 third stashing without index
 
-
-
-
-
-
-
-
 fifth line
+
+fourth no index end
