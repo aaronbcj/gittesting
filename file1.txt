@@ -4,3 +4,6 @@ second line
 
 second stashing
 first stashing
+
+
+third stashing without index
